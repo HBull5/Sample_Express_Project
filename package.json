@@ -1,0 +1,22 @@
+{
+  "name": "sample_express_project",
+  "version": "1.0.0",
+  "description": "Sample express project just like the node one, but with way less code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HBull5/Sample_Express_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HBull5/Sample_Express_Project/issues"
+  },
+  "homepage": "https://github.com/HBull5/Sample_Express_Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
